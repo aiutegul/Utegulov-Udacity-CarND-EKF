@@ -1105,6 +1105,8 @@ vector
 /Users/apple/SDCProjects/Term2/CarND-Extended-KF/CarND-Extended-Kalman-Filter-Project/src/kalman_filter.cpp
 kalman_filter.h
 /Users/apple/SDCProjects/Term2/CarND-Extended-KF/CarND-Extended-Kalman-Filter-Project/src/kalman_filter.h
+math.h
+/Users/apple/SDCProjects/Term2/CarND-Extended-KF/CarND-Extended-Kalman-Filter-Project/src/math.h
 
 /Users/apple/SDCProjects/Term2/CarND-Extended-KF/CarND-Extended-Kalman-Filter-Project/src/kalman_filter.h
 Eigen/Dense
